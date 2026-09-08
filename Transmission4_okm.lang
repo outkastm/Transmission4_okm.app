@@ -1,7 +1,7 @@
 [de-de]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Stellt Transmission 4 bereit, einen schnellen, einfachen und kostenlosen BitTorrent-Client"
 
 [en-us]
 name = "Transmission4_okm"
@@ -11,59 +11,59 @@ descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
 [es-es]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Proporciona Transmission 4, un cliente BitTorrent rápido, fácil y gratuito"
 
 [fr-fr]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Fournit Transmission 4, un client BitTorrent rapide, facile et gratuit"
 
 [hu-hu]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "A Transmission 4 biztosítása, egy gyors, egyszerű és ingyenes BitTorrent-kliens"
 
 [it-it]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Fornisce Transmission 4, un client BitTorrent veloce, facile e gratuito"
 
 [ja-jp]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "高速で簡単、無料のBitTorrentクライアントであるTransmission 4を提供します"
 
 [ko-kr]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "빠르고 쉽고 무료인 BitTorrent 클라이언트 Transmission 4를 제공합니다"
 
 [pl-pl]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Dostarcza Transmission 4, szybki, łatwy i darmowy klient BitTorrent"
 
 [pt-pt]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Fornece o Transmission 4, um cliente BitTorrent rápido, fácil e gratuito"
 
 [ru-ru]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Предоставляет Transmission 4, быстрый, простой и бесплатный BitTorrent-клиент"
 
 [tr-tr]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "Hızlı, kolay ve ücretsiz bir BitTorrent istemcisi olan Transmission 4'ü sağlar"
 
 [zh-cn]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "提供 Transmission 4，一款快速、简单且免费的 BitTorrent 客户端"
 
 [zh-hk]
 name = "Transmission4_okm"
 auth = "Transmission4_okm"
-descript = "Provide transmission 4, a Fast, Easy and Free Bittorrent Client"
+descript = "提供 Transmission 4，一款快速、簡單且免費的 BitTorrent 客戶端"
