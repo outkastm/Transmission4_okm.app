@@ -26,13 +26,8 @@ Key configuration options and their defaults.
 | XXXX | TCP | [purpose] |
 
 ## Support
-- Documentation: [link]
-- Issue tracker: [link]
-- Community: [link]
+- Community: https://tmnascommunity.eu/download/transmission4_okm
 
 ## Changelog
-### v1.00.003 (YYYY-MM-DD)
+### v1.00.003 ()
 - Initial release
-
-## License
-[License type]
