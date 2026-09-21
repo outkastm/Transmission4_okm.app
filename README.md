@@ -16,6 +16,7 @@
 How to access and use the app:
 
 1. Access URL: `http://<your-nas-ip>/transmission`
+2. Access URL: `http://<yourdomain>:9091`
 
 ## Permissions
 | User: transmission | Isolated service execution |
@@ -29,7 +30,7 @@ Key configuration options and their defaults.
 | XXXX | TCP | [purpose] |
 
 ## Support
-- Community: https://tmnascommunity.eu/download/transmission4_okm
+- Community: [tmnascommunity.eu](https://tmnascommunity.eu/download/transmission4_okm)
 
 ## Changelog
 ### v1.00.003 (21-09-2026)
