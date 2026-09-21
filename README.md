@@ -21,8 +21,6 @@ How to access and use the app:
 ## Permissions
 | User: transmission | Isolated service execution |
 
-## Configuration
-Key configuration options and their defaults.
 
 ## Ports
 | Port | Protocol | Purpose |
