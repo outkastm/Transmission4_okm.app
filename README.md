@@ -1,8 +1,8 @@
 # Transmission4_okm
 
 ## Overview
-|Transmission4 branch build for TerraMaster OS
-|Official: https://transmissionbt.com
+| Transmission4 branch build for TerraMaster OS
+| Official: https://transmissionbt.com
 
 ## Installation
 1. Requirements: TOS 7.0+
