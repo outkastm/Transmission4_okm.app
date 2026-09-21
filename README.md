@@ -7,7 +7,7 @@
 ## Installation
 1. Requirements: TOS 7.0+
 2. Install from TOS App Center or manually
-3. Initial configuration steps
+3. Initial configuration steps:
 	- Create a folder for your downloads
 	- Assign read/write permissions for application user transmission
 	- Configure your download folder in transmission settings
