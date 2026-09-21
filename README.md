@@ -27,7 +27,7 @@ Key configuration options and their defaults.
 ## Ports
 | Port | Protocol | Purpose |
 |---|---|---|
-| XXXX | TCP | [purpose] |
+| 9091 | TCP | WebUI |
 
 ## Support
 - Community: [tmnascommunity.eu](https://tmnascommunity.eu/download/transmission4_okm)
